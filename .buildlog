@@ -1,0 +1,501 @@
+---
+build.dart --machine --full
+Unable to open file: /Users/tomochika_hara/work/dart/polymer_sample/packages/polymer/component_build.dart'file:///Users/tomochika_hara/work/dart/polymer_sample/build.dart': Error: line 2 pos 1: library handler failed
+import 'package:polymer/component_build.dart';     
+^
+build.dart finished [61 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/polymer_sample/build.dart:5:8)
+build.dart finished [630 ms]
+
+---
+build.dart --machine --full
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [669 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [404 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [465 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [327 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [330 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [304 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [338 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [297 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [324 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [351 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [265 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [316 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [290 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [494 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [380 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [324 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [342 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [354 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [374 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [374 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [299 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [305 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [319 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [304 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [335 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [335 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [359 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [294 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [324 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [298 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [328 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [318 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [372 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [293 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [328 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [317 ms]
+
+---
+build.dart --machine --changed=bin/observe_sample.dart
+Unhandled exception:
+No top-level method 'parseOptions' declared.
+
+NoSuchMethodError : method not found: 'parseOptions'
+Receiver: top-level
+Arguments: [...]
+#0      NoSuchMethodError._throwNew (dart:core-patch/errors_patch.dart:99:5)
+#1      build (package:polymer/component_build.dart:21:42)
+#2      main (file:///Users/tomochika_hara/work/dart/nagoya.dart1/build.dart:5:8)
+build.dart finished [322 ms]
+
